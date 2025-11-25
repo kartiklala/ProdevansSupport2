@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+python-dotenv 
+pymongo 
+motor 
+requests 
+langchain 
+langchain-openai 
+pydantic 
+streamlit 
+streamlit-chat 
+loguru
